@@ -72,6 +72,7 @@ This project is licensed under the MIT License
 
 👤 Author
 
-Developed by [Your Name] ✨
+Developed by [Siddharth Nair] ✨
 
-👉 Do you want me to also add example screenshots / demo GIF placeholders into this README (so your GitHub repo looks more appealing), or keep it clean and text-only?
+
+
