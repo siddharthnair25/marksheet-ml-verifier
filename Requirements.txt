@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+fuzzywuzzy
+python-levenshtein
+joblib
+pdfplumber
+streamlit
+openpyxl
